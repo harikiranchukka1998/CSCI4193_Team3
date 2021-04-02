@@ -1,6 +1,4 @@
-# OnsenUI-Todo-App
-Onsen UI 2.0 example To-Do app implemented in Vanilla JavaScript.
+Technology Innovation – CSCI5193
 
-Try it here: http://frandiox.github.io/OnsenUI-Todo-App
-
-Tutorial: https://onsen.io/blog/auto-style-app-onsen/
+# Get Started
+Clone the repository and simply run the file "index.html".
